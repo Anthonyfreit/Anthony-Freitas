@@ -1,0 +1,63 @@
+.carousel-caption{
+	color: blue;
+}
+
+.under-carroussel{
+	padding: 10px;
+	font-family: Bellota Text;
+}
+
+.under-title{
+	
+	text-align: center;
+	padding: 20px;
+	font-family: Bellota Text;
+}
+
+.pack-trip{
+	font-family: Bellota Text;
+}
+
+.container{
+	padding: 20px;
+	font-family: Bellota Text;
+	color: black;
+}
+
+.form-row{
+	padding: 30px;
+}
+
+.formulaire{
+	padding: 20px;
+}
+
+.coordonne{
+	background-color: #82B7FF;
+	font-family: Bellota Text;
+}
+
+.titre-formulaire{
+	background-color: #82B7FF;
+	font-family: Bellota Text;
+	color: white;
+	padding: 10px;
+}
+
+.carousel-inner{
+	font-family: Bellota Text;
+	font-size: 25px;
+}
+
+.form-group{
+	color: white;
+}
+
+.formulaire{
+	background-color: #82B7FF;
+}
+
+.Footer{
+	background-color: #FCF7D8;
+	font-family: Bellota Text;
+}
